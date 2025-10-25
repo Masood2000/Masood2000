@@ -22,7 +22,7 @@
 ######  💾 Databases:
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
-![Oracle DB](https://m.media-amazon.com/images/I/41QodfboFdL.png)
+![Oracle DB](https://img.shields.io/badge/oracle-%CC0000.svg?style=for-the-badge&logo=oracle&logoColor=white)
 
 ######  📋 Languages:
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=cplusplus&logoColor=white)
